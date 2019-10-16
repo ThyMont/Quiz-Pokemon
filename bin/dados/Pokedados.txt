@@ -1,0 +1,151 @@
+#001:Bulbasaur:Pokémon Semente:0.7m:6.9kg:GRAMA&VENENO:FOGO@GELO@PSIQUICO@VOADOR:AGUA%ELETRICO%FADA%GRAMA%LUTADOR:Uma semente estranha foi plantada em suas costas no nascimento. A planta brota e cresce com este Pokémon.
+#002:Ivysaur:Pokémon Semente:1.0m:13.0kg:GRAMA&VENENO:FOGO@GELO@PSIQUICO@VOADOR:AGUA%ELETRICO%FADA%GRAMA%LUTADOR:Quando o bulbo nas costas fica grande, parece perder a capacidade de ficar em pé sobre as patas traseiras.
+#003:Venusaur:Pokémon Semente:2.0m:100.0kg:GRAMA&VENENO:FOGO@GELO@PSIQUICO@VOADOR:AGUA%ELETRICO%FADA%GRAMA%LUTADOR:A planta floresce quando está absorvendo a energia solar. Ele permanece em movimento para buscar a luz do sol.
+#004:Charmander:Pokémon Lagarto:0.6m:8.5kg:FOGO:AGUA@TERRESTRE@PEDRA:INSETO%METAL%FOGO%GRAMA%GELO%FADA:Obviamente, prefere lugares quentes. Quando chove, diz-se que o vapor jorra da ponta da cauda.
+#005:Charmeleon:Pokémon Chama:1.1m:19.0kg:FOGO:AGUA@TERRESTRE@PEDRA:INSETO%METAL%FOGO%GRAMA%GELO%FADA:Quando ele balança a cauda, eleva a temperatura a níveis insuportavelmente altos.
+#006:Charizard:Pokémon Chama:1.7m:90.5kg:FOGO&VOADOR:AGUA@ELETRICO@PEDRA:INSETO%LUTADOR%METAL%FOGO%GRAMA%FADA:Cospe fogo que é quente o suficiente para derreter pedras. Conhecido por causar incêndios florestais sem intenção.
+#007:Squirtle:Pokémon Pequena Tartaruga:0.5m:9.0kg:AGUA:ELETRICO@GRAMA:AGUA%FOGO%GELO%METAL:Após o nascimento, suas costas incham e endurecem em uma concha. Potencialmente pulveriza espuma da boca.
+#008:Wartortle:Pokémon Tartaruga:1.0m:22.5kg:AGUA:ELETRICO@GRAMA:AGUA%FOGO%GELO%METAL:Muitas vezes se esconde na água para perseguir presas desavisadas. Para nadar rápido, ele move as orelhas para manter o equilíbrio.
+#009:Blastoise:Pokémon Marisco:1.6m:85.5kg:AGUA:ELETRICO@GRAMA:AGUA%FOGO%GELO%METAL:Um Pokémon brutal com jatos de água pressurizada em sua concha. Eles são usados para ataques de alta velocidade.
+#010:Caterpie:Pokémon Verme:0.3m:2.9kg:INSETO:FOGO@PEDRA@VOADOR:GRAMA%LUTADOR%TERRESTRE:Seus pés curtos são cobertos com ventosas que permitem que você suba incansavelmente em declives e paredes.
+#011:Metapod:Pokémon Casulo:0.7m:9.9kg:INSETO:FOGO@PEDRA@VOADOR:GRAMA%LUTADOR%TERRESTRE:Este Pokémon é vulnerável ao ataque enquanto sua casca é macia, expondo seu corpo fraco e terno.
+#012:Butterfree:Pokémon Borboleta:1.1m:32.0kg:INSETO&VOADOR:ELETRICO@FOGO@GELO@PEDRA@VOADOR:GRAMA%INSETO%LUTADOR%TERRESTRE:Em batalha, bate as asas em alta velocidade para liberar poeira altamente tóxica no ar.
+#013:Weedle:Pokémon Inseto Peludo:0.3m:3.2kg:INSETO&VENENO:FOGO@PEDRA@PSIQUICO@VOADOR:FADA%GRAMA%INSETO%LUTADOR%VENENO:Muitas vezes encontrado em florestas, comendo folhas. Tem um ferrão venenoso afiado em sua cabeça.
+#014:Kakuna:Pokémon Casulo:0.6m:10.0kg:INSETO&VENENO:FOGO@PEDRA@PSIQUICO@VOADOR:FADA%GRAMA%INSETO%LUTADOR%VENENO:Quase incapaz de se mover, este Pokémon só pode endurecer sua concha para se proteger de predadores.
+#015:Beedrill:Pokémon Abelha Venenosa:1.0m:29.5kg:INSETO&VENENO:FOGO@PEDRA@PSIQUICO@VOADOR:FADA%GRAMA%INSETO%LUTADOR%VENENO:Voa em alta velocidade e ataca usando seus grandes ferrões venenosos em suas patas dianteiras e cauda.
+#016:Pidgey:Pokémon Passarinho:0.3m:1.8kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Uma visão comum em florestas e bosques. Ele bate as asas no nível do solo para chocar areia ofuscante.
+#017:Pidgeotto:Pokémon Pássaro:1.1m:30.0kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Muito protetor de sua extensa área territorial, este Pokémon vai ferver ferozmente qualquer intruso.
+#018:Pidgeot:Pokémon Pássaro:1.5m:39.5kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Ao caçar, ele percorre a superfície da água em alta velocidade para capturar presas incautas como Magikarp.
+#019:Rattata:Pokémon Rato:0.3m:3.5kg:NORMAL:LUTADOR:FANTASMA:Morde tudo quando ataca. Pequeno e muito rápido, é uma visão comum em muitos lugares.
+#020:Raticate:Pokémon Rato:0.7m:18.5kg:NORMAL:LUTADOR:FANTASMA:Ele usa seus bigodes para manter o equilíbrio. Aparentemente diminui se eles são cortados.
+#021:Spearow:Pokémon Passarinho:0.3m:2.0kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Come insetos em áreas gramadas. Ele tem que bater suas asas curtas em alta velocidade para ficar no ar.
+#022:Fearow:Pokémon Bico:1.2m:38.0kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Com suas enormes e magníficas asas, pode manter-se no ar sem ter que pousar para descansar.
+#023:Ekans:Pokémon Serpente:2.0m:6.9kg:VENENO:PSIQUICO@TERRESTRE:FADA%GRAMA%INSETO%LUTADOR%VENENO:Move-se silenciosa e furtivamente. Come os ovos de aves, como Pidgey e Spearow, inteiros.
+#024:Arbok:Pokémon Cobra:3.5m:65.0kg:VENENO:PSIQUICO@TERRESTRE:FADA%GRAMA%INSETO%LUTADOR%VENENO:Há rumores de que as marcações de aviso ferozes em sua barriga diferem de área para área.
+#025:Pikachu:Pokémon Rato:0.4m:6.0kg:ELETRICO:TERRESTRE:ELETRICO%METAL%VOADOR:Quando vários desses Pokémon se reúnem, sua eletricidade pode se acumular e causar tempestades elétricas.
+#026:Raichu:Pokémon Rato:0.8m:30.0kg:ELETRICO:TERRESTRE:ELETRICO%METAL%VOADOR:Sua cauda longa serve como um terreno para se proteger de sua própria energia de alta tensão.
+#027:Sandshrew:Pokémon Rato:0.6m:12.0kg:TERRESTRE:AGUA@GELO@GRAMA:ELETRICO%PEDRA%VENENO:Abre buracos no subsolo em locais áridos, longe da água. Só sai em busca de comida.
+#028:Sandslash:Pokémon Rato:1.0m:29.5kg:TERRESTRE:AGUA@GELO@GRAMA:ELETRICO%PEDRA%VENENO:Se enrola em uma bola espinhosa quando ameaçada. Pode rolar enquanto enrolado para atacar ou escapar.
+#029:Nidoran F:Pokémon Alfinete Venenoso:0.4m:7.0kg:VENENO:::
+#030:Nidorina:Pokémon Alfinete Venenoso:0.8m:20.0kg:VENENO:::
+#031:Nidoqueen:Pokémon Broca:1.3m:60kg:VENENO&TERRESTRE:::
+#032:Nidoran M:Pokémon Alfinete Venenoso:0.5m:9.0kg:VENENO:::
+#033:Nidorino:Pokémon Alfinete Venenoso:0.9m:19.5kg:VENENO:::
+#034:Nidoking:Pokémon Broca:1.4m:62.0kg:VENENO&TERRESTRE:::
+#035:Clefairy:Pokémon Fada:0.6m:7.5kg:FADA:::
+#036:Clefable:Pokémon Fada:1.3m:40kg:FADA:::
+#037:Vulpix:Pokémon Raposa:0.6m:9.9kg:FOGO:::
+#038:Ninetales:Pokémon Raposa:1.1m:19.9kg:FOGO:::
+#039:Jigglypuff:Pokémon Balão:0.5m:5.5kg:NORMAL&FADA:::
+#040:Wigglytuff:Pokémon Balão:1.0m:12.0kg:NORMAL&FADA:::
+#041:Zubat:Pokémon Morcego:0.8m:7.5kg:VENENO&VOADOR:::
+#042:Golbat:Pokémon Morcego:1.6m:55.0kg:VENENO&VOADOR:::
+#043:Oddish:Pokémon Erva Daninha:0.5m:5.4kg:GRAMA&VENENO:::
+#044:Gloom:Pokémon Erva Daninha:0.8m:8.6kg:GRAMA&VENENO:::
+#045:Vileplume:Pokémon Flor:1.2m:18.6kg:GRAMA&VENENO:::
+#046:Paras:Pokémon Cogumelo:0.3m:5.4kg:INSETO&GRAMA:::
+#047:Parasect:Pokémon Cogumelo:1.0m:29.5kg:INSETO&GRAMA:::
+#048:Venonat:Pokémon Inseto:1.0m:30.0kg:INSETO&VENENO:::
+#049:Venomoth:Pokémon Mariposa Venenosa:1.5m:12.5kg:INSETO&VENENO:::
+#050:Digglet:Pokémon Toupeira:0.2m:0.8kg:TERRESTRE:::
+#051:Dugtrio:Pokémon Toupeira:0.7m:33.3kg:TERRESTRE:::
+#052:Meowth:Pokémon Gato do Arranhão:0.4m:4.2kg:NORMAL:::
+#053:Persian:Pokémon Gato Elegante:1.0m:32.0kg:NORMAL:::
+#054:Psyduck:Pokémon Pato:0.8m:19.6kg:AGUA:::
+#055:Golduck:Pokémon Pato:1.7m:76.6kg:AGUA:::
+#056:Mankey:Pokémon Macaco-porco:0.5m:28.0kg:LUTADOR:::
+#057:Primeape:Pokémon Macaco-porco:1.0m:32.0kg:LUTADOR:::
+#058:Growlithe:Pokémon Cachorrinho:0.7m:19.0kg:FOGO:::
+#059:Arcanine:Pokémon Lendário:1.9m:155.0kg:FOGO:::
+#060:Poliwag:Pokémon Girino:0.6m:12.4kg:AGUA:::
+#061:Poliwhirl:Pokémon Girino:1.0m:20.0kg:AGUA:::
+#062:Poliwrath:Pokémon Girino:1.3m:54.0kg:AGUA&LUTADOR:::
+#063:Abra:Pokémon Psíquico:0.9m:19.5kg:PSIQUICO:::
+#064:Kadabra:Pokémon Psíquico:1.3m:56.6kg:PSIQUICO:::
+#065:Alakazam:Pokémon Psíquico:1.5m:48.0kg:PSIQUICO:::
+#066:Machop:Pokémon Superpotência:0.8m:19.5kg:LUTADOR:::
+#067:Machoke:Pokémon Superpotência:1.5m:70.5kg:LUTADOR:::
+#068:Machamp:Pokémon Superpotência:1.6m:130.0kg:LUTADOR:::
+#069:Bellsprout:Pokémon Flor:0.7m:4.0kg:GRAMA&VENENO:::
+#070:Weepinbell:Pokémon Apanhador de Moscas:1.0m:6.4kg:GRAMA&VENENO:::
+#071:Victreebell:Pokémon Apanhador de Moscas:1.7m:15.5kg:GRAMA&VENENO:::
+#072:Tentacool:Pokémon Medusa:::AGUA&VENENO:::
+#073:Tentacruel:Pokémon Medusa:::AGUA&VENENO:::
+#074:Geodude:Pokémon Pedra:::PEDRA&TERRESTRE:::
+#075:Graveler:Pokémon Pedra:::PEDRA&TERRESTRE:::
+#076:Golem:Pokémon Mega Tonelada:::PEDRA&TERRESTRE:::
+#077:Ponyta:Pokémon Cavalo de Fogo:::FOGO:::
+#078:Rapidash:Pokémon Cavalo de Fogo:::FOGO:::
+#079:Slowpoke:Pokémon Dopado:::AGUA&PSIQUICO:::
+#080:Slowbro:Pokémon Caranguejo Eremita:::AGUA&PSIQUICO:::
+#081:Magnemite:Pokémon Magnético:::ELETRICO&METAL:::
+#082:Magneton:Pokémon Magnético:::ELETRICO&METAL:::
+#083:Farfetch'd:Pokémon Pato Selvagem:::NORMAL&VOADOR:::
+#084:Doduo:Pokémon Pássaro Gêmeo:::NORMAL&VOADOR:::
+#085:Dodrio:Pokémon Pássaro Triplo:::NORMAL&VOADOR:::
+#086:Seel:Pokémon Leão Marinho:::AGUA:::
+#087:Dewgong:Pokémon Leão Marinho:::AGUA&GELO:::
+#088:Grimer:Pokémon Lodo:::VENENO:::
+#089:Muk:Pokémon Lodo:::VENENO:::
+#090:Shellder:Pokémon Bivalve:::AGUA:::
+#091:Cloyster:Pokémon Bivalve:::AGUA&GELO:::
+#092:Gastly:Pokémon Gás:::FANTASMA&VENENO:::
+#093:Haunter:Pokémon Gás:::FANTASMA&VENENO:::
+#094:Gengar:Pokémon Sombra:::FANTASMA&VENENO:::
+#095:Onix:Pokémon Serpente de Pedra:::PEDRA&TERRESTRE:::
+#096:Drowzee:Pokémon Hipnose:::PSIQUICO:::
+#097:Hypno:Pokémon Hipnose:::PSIQUICO:::
+#098:Krabby:Pokémon Caranguejo do Rio:::AGUA:::
+#099:Kingler:Pokémon Pinça:::AGUA:::
+#100:Voltorb:Pokémon Bola:::ELETRICO:::
+#101:Electrode:Pokémon Bola:::ELETRICO:::
+#102:Exeggcute:Pokémon Ovo:::GRAMA&PSIQUICO:::
+#103:Exeggutor:Pokémon Coco:::GRAMA&PSIQUICO:::
+#104:Cubone:Pokémon Solitário:::TERRESTRE:::
+#105:Marowak:Pokémon Guardião de Ossos:::TERRESTRE:::
+#106:Hitmonlee:Pokémon Chutador:::LUTADOR:::
+#107:Hitmontchan:Pokémon Soqueador:::LUTADOR:::
+#108:Lickitung:Pokémon Lambedor:::NORMAL:::
+#109:Koffing:Pokémon Gás Venenoso:::VENENO:::
+#110:Weezing:Pokémon Gás Venenoso:::VENENO:::
+#111:Rhyhorn:Pokémon Espigão:::PEDRA&TERRESTRE:::
+#112:Rhydon:Pokémon Broca:::PEDRA&TERRESTRE:::
+#113:Chansey:Pokémon Ovo:::NORMAL:::
+#114:Tangela:Pokémon Vinha:::GRAMA:::
+#115:Kangaskhan:Pokémon Materno:::NORMAL:::
+#116:Horsea:Pokémon Dragão:::AGUA:::
+#117:Seadra:Pokémon Dragão:::AGUA:::
+#118:Goldeen:Pokémon Peixe Dourado:::AGUA:::
+#119:Seaking:Pokémon Peixe Dourado:::AGUA:::
+#120:Staryu:Pokémon Estrelado:::AGUA:::
+#121:Starmie:Pokémon Misterioso:::AGUA&PSIQUICO:::
+#122:Mr. Mime:Pokémon Barreira:::PSIQUICO&FADA:::
+#123:Scyther:Pokémon Louva-a-Deus:::INSETO&VOADOR:::
+#124:Jynx:Pokémon Humanóide:::GELO&PSIQUICO:::
+#125:Electabuzz:Pokémon Elétrico:::ELETRICO:::
+#126:Magmar:Pokémon Cospe Fogo:::FOGO:::
+#127:Pinsir:Pokémon Besouro Lucano:::INSETO:::
+#128:Tauros:Pokémon Touro Selvagem:::NORMAL:::
+#129:Magikarp:Pokémon Peixe:::AGUA:::
+#130:Gyarados:Pokémon Atroz:::AGUA&VOADOR:::
+#131:Lapras:Pokémon Transporte:::AGUA&GELO:::
+#132:Ditto:Pokémon Transformação:::NORMAL:::
+#133:Eevee:Pokémon Evolução:::NORMAL:::
+#134:Vaporeon:Pokémon Jato de Bolhas:::AGUA:::
+#135:Jolteon:Pokémon Relâmpago:::ELETRICO:::
+#136:Flareon:Pokémon Chama:::FOGO:::
+#137:Porygon:Pokémon Virtual:::NORMAL:::
+#138:Omanyte:Pokémon Espiral:::PEDRA&AGUA:::
+#139:Omastar:Pokémon Espiral:::PEDRA&AGUA:::
+#140:Kabuto:Pokémon Marisco:::PEDRA&AGUA:::
+#141:Kabutops:Pokémon Marisco:::PEDRA&AGUA:::
+#142:Aerodactyl:Pokémon Fóssil:::PEDRA&VOADOR:::
+#143:Snorlax:Pokémon Dorminhoco:::NORMAL:::
+#144:Articuno:Pokémon Congelamento:::GELO&VOADOR:::
+#145:Zapdos:Pokémon Elétrico:::ELETRICO&VOADOR:::
+#146:Moltres:Pokémon Chama:::FOGO&VOADOR:::
+#147:Dratini:Pokémon Dragão:::DRAGAO:::
+#148:Dragonair:Pokémon Dragão:::DRAGAO:::
+#149:Dragonite:Pokémon Dragão:::DRAGAO:::
+#150:Mewtwo:Pokémon Genético:::PSIQUICO:::
+#151:Mew:Pokémon Novas Espécies:::PSIQUICO:::

@@ -1,0 +1,28 @@
+#001:Bulbasaur:Pokémon Semente:0.7m:6.9kg:GRAMA&VENENO:FOGO@GELO@PSIQUICO@VOADOR:AGUA%ELETRICO%FADA%GRAMA%LUTADOR:Uma semente estranha foi plantada em suas costas no nascimento. A planta brota e cresce com este Pokémon.
+#002:Ivysaur:Pokémon Semente:1.0m:13.0kg:GRAMA&VENENO:FOGO@GELO@PSIQUICO@VOADOR:AGUA%ELETRICO%FADA%GRAMA%LUTADOR:Quando o bulbo nas costas fica grande, parece perder a capacidade de ficar em pé sobre as patas traseiras.
+#003:Venusaur:Pokémon Semente:2.0m:100.0kg:GRAMA&VENENO:FOGO@GELO@PSIQUICO@VOADOR:AGUA%ELETRICO%FADA%GRAMA%LUTADOR:A planta floresce quando está absorvendo a energia solar. Ele permanece em movimento para buscar a luz do sol.
+#004:Charmander:Pokémon Lagarto:0.6m:8.5kg:FOGO:AGUA@TERRESTRE@PEDRA:INSETO%METAL%FOGO%GRAMA%GELO%FADA:Obviamente, prefere lugares quentes. Quando chove, diz-se que o vapor jorra da ponta da cauda.
+#005:Charmeleon:Pokémon Chama:1.1m:19.0kg:FOGO:AGUA@TERRESTRE@PEDRA:INSETO%METAL%FOGO%GRAMA%GELO%FADA:Quando ele balança a cauda, eleva a temperatura a níveis insuportavelmente altos.
+#006:Charizard:Pokémon Chama:1.7m:90.5kg:FOGO&VOADOR:AGUA@ELETRICO@PEDRA:INSETO%LUTADOR%METAL%FOGO%GRAMA%FADA:Cospe fogo que é quente o suficiente para derreter pedras. Conhecido por causar incêndios florestais sem intenção.
+#007:Squirtle:Pokémon Pequena Tartaruga:0.5m:9.0kg:AGUA:ELETRICO@GRAMA:AGUA%FOGO%GELO%METAL:Após o nascimento, suas costas incham e endurecem em uma concha. Potencialmente pulveriza espuma da boca.
+#008:Wartortle:Pokémon Tartaruga:1.0m:22.5kg:AGUA:ELETRICO@GRAMA:AGUA%FOGO%GELO%METAL:Muitas vezes se esconde na água para perseguir presas desavisadas. Para nadar rápido, ele move as orelhas para manter o equilíbrio.
+#009:Blastoise:Pokémon Marisco:1.6m:85.5kg:AGUA:ELETRICO@GRAMA:AGUA%FOGO%GELO%METAL:Um Pokémon brutal com jatos de água pressurizada em sua concha. Eles são usados para ataques de alta velocidade.
+#010:Caterpie:Pokémon Verme:0.3m:2.9kg:INSETO:FOGO@PEDRA@VOADOR:GRAMA%LUTADOR%TERRESTRE:Seus pés curtos são cobertos com ventosas que permitem que você suba incansavelmente em declives e paredes.
+#011:Metapod:Pokémon Casulo:0.7m:9.9kg:INSETO:FOGO@PEDRA@VOADOR:GRAMA%LUTADOR%TERRESTRE:Este Pokémon é vulnerável ao ataque enquanto sua casca é macia, expondo seu corpo fraco e terno.
+#012:Butterfree:Pokémon Borboleta:1.1m:32.0kg:INSETO&VOADOR:ELETRICO@FOGO@GELO@PEDRA@VOADOR:GRAMA%INSETO%LUTADOR%TERRESTRE:Em batalha, bate as asas em alta velocidade para liberar poeira altamente tóxica no ar.
+#013:Weedle:Pokémon Inseto Peludo:0.3m:3.2kg:INSETO&VENENO:FOGO@PEDRA@PSIQUICO@VOADOR:FADA%GRAMA%INSETO%LUTADOR%VENENO:Muitas vezes encontrado em florestas, comendo folhas. Tem um ferrão venenoso afiado em sua cabeça.
+#014:Kakuna:Pokémon Casulo:0.6m:10.0kg:INSETO&VENENO:FOGO@PEDRA@PSIQUICO@VOADOR:FADA%GRAMA%INSETO%LUTADOR%VENENO:Quase incapaz de se mover, este Pokémon só pode endurecer sua concha para se proteger de predadores.
+#015:Beedrill:Pokémon Abelha Venenosa:1.0m:29.5kg:INSETO&VENENO:FOGO@PEDRA@PSIQUICO@VOADOR:FADA%GRAMA%INSETO%LUTADOR%VENENO:Voa em alta velocidade e ataca usando seus grandes ferrões venenosos em suas patas dianteiras e cauda.
+#016:Pidgey:Pokémon Passarinho:0.3m:1.8kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Uma visão comum em florestas e bosques. Ele bate as asas no nível do solo para chocar areia ofuscante.
+#017:Pidgeotto:Pokémon Pássaro:1.1m:30.0kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Muito protetor de sua extensa área territorial, este Pokémon vai ferver ferozmente qualquer intruso.
+#018:Pidgeot:Pokémon Pássaro:1.5m:39.5kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Ao caçar, ele percorre a superfície da água em alta velocidade para capturar presas incautas como Magikarp.
+#019:Rattata:Pokémon Rato:0.3m:3.5kg:NORMAL:LUTADOR:FANTASMA:Morda tudo quando ataca. Pequeno e muito rápido, é uma visão comum em muitos lugares.
+#020:Raticate:Pokémon Rato:0.7m:18.5kg:NORMAL:LUTADOR:FANTASMA:Ele usa seus bigodes para manter o equilíbrio. Aparentemente diminui se eles são cortados.
+#021:Spearow:Pokémon Passarinho:0.3m:2.0kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Come insetos em áreas gramadas. Ele tem que bater suas asas curtas em alta velocidade para ficar no ar.
+#022:Fearow:Pokémon Bico:1.2m:38.0kg:NORMAL&VOADOR:ELETRICO@GELO@PEDRA:FANTASMA%GRAMA%INSETO%TERRESTRE:Com suas enormes e magníficas asas, pode manter-se no ar sem ter que pousar para descansar.
+#023:Ekans:Pokémon Serpente:2.0m:6.9kg:VENENO:PSIQUICO@TERRESTRE:FADA%GRAMA%INSETO%LUTADOR%VENENO:Move-se silenciosa e furtivamente. Come os ovos de aves, como Pidgey e Spearow, inteiros.
+#024:Arbok:Pokémon Cobra:3.5m:65.0kg:VENENO:PSIQUICO@TERRESTRE:FADA%GRAMA%INSETO%LUTADOR%VENENO:Há rumores de que as marcações de aviso ferozes em sua barriga diferem de área para área.
+#025:Pikachu:Pokémon Rato:0.4m:6.0kg:ELETRICO:TERRESTRE:ELETRICO%METAL%VOADOR:Quando vários desses Pokémon se reúnem, sua eletricidade pode se acumular e causar tempestades elétricas.
+#026:Raichu:Pokémon Rato:0.8m:30.0kg:ELETRICO:TERRESTRE:ELETRICO%METAL%VOADOR:Sua cauda longa serve como um terreno para se proteger de sua própria energia de alta tensão.
+#027:Sandshrew:Pokémon Rato:0.6m:12.0kg:TERRESTRE:AGUA@GELO@GRAMA:ELETRICO%PEDRA%VENENO:Abre buracos no subsolo em locais áridos, longe da água. Só sai em busca de comida.
+#028:Sandslash:Pokémon Rato:1.0m:29.5kg:TERRESTRE:AGUA@GELO@GRAMA:ELETRICO%PEDRA%VENENO:Se enrola em uma bola espinhosa quando ameaçada. Pode rolar enquanto enrolado para atacar ou escapar.
